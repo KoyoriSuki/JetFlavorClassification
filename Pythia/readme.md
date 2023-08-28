@@ -18,7 +18,7 @@ This is the PYTHIA8 script used to generate data of jets in simulation.
 
 See an example from trainingData_thread4.txt. Data of a jet are organized as:  
 
-(Number of constituents) (particle ID of flavor parton) (px of jet) (py of jet) (pz of jet) (E of jet)
+(Number of constituents) (particle ID of flavor parton) (px of jet) (py of jet) (pz of jet) (E of jet)  
 (Constituent 1st) (particle ID of this constituent) (px) (py) (pz) (E) (vertex_x) (vertex_y) (vertex_z) (vertex_t)  
 (Constituent 2nd) (particle ID of this constituent) (px) (py) (pz) (E) (vertex_x) (vertex_y) (vertex_z) (vertex_t)  
 (Constituent 3rd) (particle ID of this constituent) (px) (py) (pz) (E) (vertex_x) (vertex_y) (vertex_z) (vertex_t)  
